@@ -57,7 +57,3 @@ Once running, visit `http://127.0.0.1:8000/docs` for interactive API documentati
   - Accepts: JSON with 'image_id' field as a body request
   - Returns: JSON with skin_type, issues, and confidence score
   - Errors: 400 for missing image_id, 404 for unknown image_id
-- `POST /upload-image` - Upload an image for AI processing (OCR text extraction)
-  - Accepts: multipart/form-data with 'file' field
-  - Supported formats: JPEG, PNG
-  - Returns: JSON with extracted text, confidence, and processing time
