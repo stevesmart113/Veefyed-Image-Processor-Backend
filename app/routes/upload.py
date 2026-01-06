@@ -1,11 +1,11 @@
-from fastapi import APIRouter, File, UploadFile, HTTPException
+from fastapi import APIRouter, File, UploadFile, HTTPException # type: ignore
 from app.models import UploadResponse, ImageUploadResponse, AnalyzeRequest, AnalysisResponse
 from app.services.ocr_service import OCRService
 from app.utils.file_utils import validate_image, validate_file_size, save_temp_file, save_upload_file, cleanup_temp_file
 import random
 import os
 import logging
-from fastapi import HTTPException
+from fastapi import HTTPException # type: ignore
 
 logger = logging.getLogger(__name__)
 
