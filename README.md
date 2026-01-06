@@ -24,7 +24,7 @@ A FastAPI backend for the Veefyed application.
 
 ### Using Virtual Environment
 Activate the virtual environment and run the server:
-```
+```python
 source venv/bin/activate
 uvicorn app.main:app --reload
 ```
