@@ -54,9 +54,19 @@ Once running, visit `http://127.0.0.1:8000/docs` for interactive API documentati
   - Returns: JSON with skin_type, issues, and confidence score
   - Errors: 400 for missing image_id, 404 for unknown image_id
 
-### Loggin
+### Logging
 
 ![External Image](https://github.com/stevesmart113/Veefyed-Image-Processor-Backend/blob/main/uploads/Screenshot%202026-01-05%20at%204.26.46%E2%80%AFPM.png)
+
+
+### Upload
+
+![External Image](https://github.com/stevesmart113/Veefyed-Image-Processor-Backend/blob/main/uploads/Screenshot%202026-01-05%20at%204.27.07%E2%80%AFPM.png)
+
+### Analyze
+
+![External Image](https://github.com/stevesmart113/Veefyed-Image-Processor-Backend/blob/main/uploads/Screenshot%202026-01-05%20at%204.26.59%E2%80%AFPM.png)
+
 
 
 
