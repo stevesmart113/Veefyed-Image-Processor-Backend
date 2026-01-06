@@ -31,7 +31,7 @@ uvicorn app.main:app --reload
 
 ### Using Docker
 Build and run with Docker:
-```bash
+```diff
 docker build -t veefyed-backend .
 docker run -p 8000:8000 veefyed-backend
 ```
