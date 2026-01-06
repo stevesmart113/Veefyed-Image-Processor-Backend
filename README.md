@@ -53,3 +53,8 @@ Once running, visit `http://127.0.0.1:8000/docs` for interactive API documentati
   - Accepts: JSON with 'image_id' field as a body request
   - Returns: JSON with skin_type, issues, and confidence score
   - Errors: 400 for missing image_id, 404 for unknown image_id
+
+### Loggin
+
+![Loggin](/uploads/Screenshot 2026-01-05 at 4.26.46 PM.png)
+
