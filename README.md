@@ -5,7 +5,7 @@ A FastAPI backend for the Veefyed application.
 ## Setup
 
 1. Create a virtual environment:
-   ```
+   ```python
    python -m venv venv
    ```
 
@@ -14,7 +14,7 @@ A FastAPI backend for the Veefyed application.
    - On Windows: `venv\Scripts\activate`
 
 3. Install dependencies:
-   ```
+   ```python
    pip install -r requirements.txt
    ```
 
