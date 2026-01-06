@@ -43,8 +43,6 @@ The API will be available at `http://127.0.0.1:8000`
 Once running, visit `http://127.0.0.1:8000/docs` for interactive API documentation provided by Swagger UI.
 
 ## Endpoints
-
-- `GET /` - Welcome message
 - `POST /upload` - Upload an image and get image_id
   - Accepts: multipart/form-data with 'file' field
   - Use form-data in uploading the image on postman. The image file can be selected from there.
