@@ -56,5 +56,7 @@ Once running, visit `http://127.0.0.1:8000/docs` for interactive API documentati
 
 ### Loggin
 
-![Loggin](/uploads/Screenshot 2026-01-05 at 4.26.46 PM.png)
+![External Image](https://github.com/stevesmart113/Veefyed-Image-Processor-Backend/blob/main/uploads/Screenshot%202026-01-05%20at%204.26.46%E2%80%AFPM.png)
+
+
 
