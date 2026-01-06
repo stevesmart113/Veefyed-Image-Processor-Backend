@@ -45,8 +45,6 @@ Once running, visit `http://127.0.0.1:8000/docs` for interactive API documentati
 ## Endpoints
 
 - `GET /` - Welcome message
-- `GET /items/{item_id}` - Get item by ID
-- `POST /items/` - Create a new item
 - `POST /upload` - Upload an image and get image_id
   - Accepts: multipart/form-data with 'file' field
   - Use form-data in uploading the image on postman. The image file can be selected from there.
